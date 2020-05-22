@@ -1,0 +1,22 @@
+{
+  "wallpapers": [
+    {
+      "author": "John Jason",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
+      "name": "Dusk",
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Dusk_thumb.jpg"
+    },
+    {
+      "author": "Ludovic Fremondiere",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Roads.jpg",
+      "name": "Roads",
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Roads_thumb.jpg"
+    },
+    {
+      "author": "Diego PH",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Shooting_Star.jpg",
+      "name": "Shooting Star",
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Shooting_Star_thumb.jpg"
+    }
+  ]
+}
